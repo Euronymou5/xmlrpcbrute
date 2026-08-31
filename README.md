@@ -100,3 +100,11 @@ xmlrpcbrute/
 ## Imagenes
 
 <img width="800" height="449" alt="2026-08-3102-45-03" src="https://github.com/user-attachments/assets/7e9506ee-844d-4256-8860-a333d4cb580b" />
+
+## 🌐 Contacto 🌐
+
+[![discord](https://img.shields.io/badge/Discord-euronymou5-a?style=plastic&logo=discord&logoColor=white&labelColor=black&color=7289DA)](https://discord.com/users/452720652500205579)
+
+![email](https://img.shields.io/badge/ProtonMail-mr.euron%40proton.me-a?style=plastic&logo=protonmail&logoColor=white&labelColor=black&color=8B89CC)
+
+[![X](https://img.shields.io/twitter/follow/Euronymou51?style=plastic&logo=X&label=%40Euronymou51&labelColor=%23000000&color=%23000000)](https://x.com/Euronymou51)
