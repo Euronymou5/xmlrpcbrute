@@ -96,3 +96,7 @@ xmlrpcbrute/
 - WordPress tiene una protección interna en `system.multicall`: si mezclas credenciales válidas e inválidas en un mismo lote, puede devolver `faultCode` incluso para las válidas. La herramienta mitiga esto con verificación individual automática.
 - Algunos WAFs (Wordfence, Sucuri) pueden bloquear el endpoint `xmlrpc.php` o limitar el tamaño de los payloads.
 - El método `system.multicall` puede no estar disponible en versiones muy antiguas de WordPress.
+
+## Imagenes
+
+<img width="800" height="449" alt="2026-08-3102-45-03" src="https://github.com/user-attachments/assets/7e9506ee-844d-4256-8860-a333d4cb580b" />
